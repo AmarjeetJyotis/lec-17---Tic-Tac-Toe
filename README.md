@@ -51,6 +51,23 @@ Edit
 
 ---
 
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
+---
+
 ## 🚀 Getting Started
 
 ### Clone the repository
@@ -98,9 +115,7 @@ The game checks for win conditions after every move:
 
 Game stops if a player wins or the board is full (draw).
 
-👤 Author
-Developed by [Your Name]
-🚀 Passionate about building interactive web applications!
+
 
 📄 License
 This project is licensed under the MIT License.
@@ -109,16 +124,6 @@ This project is licensed under the MIT License.
 Inspired by classic pencil-and-paper Tic-Tac-Toe
 
 Built as part of frontend learning and practice
-
-vbnet
-Copy
-Edit
-
-Let me know if you’d like help adding GitHub topics, badges, or converting it into a React-based version.
-
-
-
-
 
 
 
